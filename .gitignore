@@ -1,0 +1,7 @@
+# Don't sync cache folder
+.ccls-cache/
+**/.ccls-cache
+
+# Don't sync Build and Debug
+**/build
+**/Debug
